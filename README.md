@@ -48,3 +48,13 @@ This program is developed for CSCI 420: Computer Graphics course homework.
  - Render wireframe on top of solid triangles 
  - Custom fragment shader to render mountain terrain with color
  - Mode 3 uses triangle strip to generate the triangle mode
+
+## Outputs:
+![004](https://github.com/maheshJosephSadashiv/heightTerrain/assets/38533715/11095f4b-7c17-4223-aeef-22bee07ecdd3)
+![077](https://github.com/maheshJosephSadashiv/heightTerrain/assets/38533715/bfc9a5b3-a77d-443c-9bd3-c1b9aae36007)
+![153](https://github.com/maheshJosephSadashiv/heightTerrain/assets/38533715/c101b04c-91fa-4d87-98ad-20240c68767e)
+![169](https://github.com/maheshJosephSadashiv/heightTerrain/assets/38533715/b53d5f49-4d14-4145-b03c-4c392aae92d8)
+
+
+
+
