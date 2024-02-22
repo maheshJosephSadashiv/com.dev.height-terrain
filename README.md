@@ -1,4 +1,4 @@
-README
+# Creating a height terrain from a gray scale image.
 
 This program is designed to render terrain heightmaps using OpenGL. It provides various modes for rendering the terrain, including point cloud, wireframe, solid triangles, and smoothed triangles. The user can manipulate the terrain using mouse and keyboard inputs.
 
@@ -48,6 +48,9 @@ This program is developed for CSCI 420: Computer Graphics course homework.
  - Render wireframe on top of solid triangles 
  - Custom fragment shader to render mountain terrain with color
  - Mode 3 uses triangle strip to generate the triangle mode
+
+## Input:
+![OhioPyle-768](https://github.com/maheshJosephSadashiv/heightTerrain/assets/38533715/18bab754-a6eb-4a82-923b-ef87dbdef24d)
 
 ## Outputs:
 ![004](https://github.com/maheshJosephSadashiv/heightTerrain/assets/38533715/11095f4b-7c17-4223-aeef-22bee07ecdd3)
